@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Soner SİTTİ
+## Hi there 👋 Soner SİTTİ
 
 <!--
 **sonersitti/sonersitti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
